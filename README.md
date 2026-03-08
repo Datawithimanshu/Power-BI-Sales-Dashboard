@@ -2,7 +2,6 @@ Dataset is hosted in google drive : [https://docs.google.com/spreadsheets/d/12Em
 
 # Power BI Sales Dashboard
 
-This project is an interactive Sales Dashboard built using Power BI.
 
 ## Key Insights
 - Total Sales: 195.98K
